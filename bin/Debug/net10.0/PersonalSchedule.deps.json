@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PersonalSchedule/1.0.0": {
+        "runtime": {
+          "PersonalSchedule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonalSchedule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

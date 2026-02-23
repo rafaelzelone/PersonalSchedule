@@ -1,0 +1,14 @@
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\PersonalSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\PersonalSchedule.AssemblyInfoInputs.cache
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\PersonalSchedule.AssemblyInfo.cs
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\PersonalSchedule.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\PersonalSchedule\bin\Debug\net10.0\PersonalSchedule.exe
+C:\Users\rafael\Desktop\PersonalSchedule\bin\Debug\net10.0\PersonalSchedule.deps.json
+C:\Users\rafael\Desktop\PersonalSchedule\bin\Debug\net10.0\PersonalSchedule.runtimeconfig.json
+C:\Users\rafael\Desktop\PersonalSchedule\bin\Debug\net10.0\PersonalSchedule.dll
+C:\Users\rafael\Desktop\PersonalSchedule\bin\Debug\net10.0\PersonalSchedule.pdb
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\PersonalSchedule.dll
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\refint\PersonalSchedule.dll
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\PersonalSchedule.pdb
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\PersonalSchedule.genruntimeconfig.cache
+C:\Users\rafael\Desktop\PersonalSchedule\obj\Debug\net10.0\ref\PersonalSchedule.dll
